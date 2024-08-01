@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "re4", "re.vcproj", "{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		(WCE MIPS) Debug|Win32 = (WCE MIPS) Debug|Win32
+		(WCE MIPS) Release|Win32 = (WCE MIPS) Release|Win32
+		(WCE SH) Debug|Win32 = (WCE SH) Debug|Win32
+		(WCE SH) Release|Win32 = (WCE SH) Release|Win32
+		(WCE x86em) Debug|Win32 = (WCE x86em) Debug|Win32
+		(WCE x86em) Release|Win32 = (WCE x86em) Release|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE MIPS) Debug|Win32.ActiveCfg = (WCE MIPS) Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE MIPS) Debug|Win32.Build.0 = (WCE MIPS) Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE MIPS) Release|Win32.ActiveCfg = (WCE MIPS) Release|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE MIPS) Release|Win32.Build.0 = (WCE MIPS) Release|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE SH) Debug|Win32.ActiveCfg = (WCE SH) Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE SH) Debug|Win32.Build.0 = (WCE SH) Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE SH) Release|Win32.ActiveCfg = (WCE SH) Release|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE SH) Release|Win32.Build.0 = (WCE SH) Release|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE x86em) Debug|Win32.ActiveCfg = (WCE x86em) Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE x86em) Debug|Win32.Build.0 = (WCE x86em) Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE x86em) Release|Win32.ActiveCfg = (WCE x86em) Release|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.(WCE x86em) Release|Win32.Build.0 = (WCE x86em) Release|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.Debug|Win32.Build.0 = Debug|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.Release|Win32.ActiveCfg = Release|Win32
+		{9AA5F417-AD55-462A-A1EA-56D3F9B6EE06}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
